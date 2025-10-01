@@ -1,4 +1,4 @@
-# Deep-Learning-Project
+# H-1B Visa Application Classification
 This project focuses on H-1B Visa Application Classification using deep learning techniques. The dataset used is the U.S. Department of Labor’s H-1B Labor Condition Application (LCA) Disclosure Data for FY2020–FY2024, which contains details of employer filings, job roles, salaries, and final outcomes of visa petitions.
 
 The aim of the project is to build a predictive model that can classify visa cases based on application features. Such a system can help in understanding key factors influencing visa approvals, assist policymakers, and provide insights to employers and applicants.
